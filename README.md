@@ -43,7 +43,7 @@ The data is stored daily and later aggregated for monthly and comparative analys
   - `reactiveEnergyInductive`  
 - **Cards with total values** for all four indicators, giving a quick summary of energy performance.
 
-  ➡️ Example visualization:  
+➡️ Example visualization:  
 ![Dashboard 2](367c33b2-69c8-411d-8a4b-9a91f5ad10c6.png)
 
 ---
