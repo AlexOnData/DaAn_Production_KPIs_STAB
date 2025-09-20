@@ -24,7 +24,7 @@ The data is stored daily and later aggregated for monthly and comparative analys
 - **Timeline charts** – monthly evolution for each phase.
 
 ➡️ Example visualization:  
-![Dashboard 1](e7cf3e7f-dd79-4177-8c49-7b17cd0db0fa.png)
+![Dashboard1](./assets/dashboard1.png)
 
 ---
 
@@ -34,7 +34,7 @@ The data is stored daily and later aggregated for monthly and comparative analys
 - Provides an overview of consumption.  
 
 ➡️ Example visualization:  
-![Dashboard 2](367c33b2-69c8-411d-8a4b-9a91f5ad10c6.png)
+![Dashboard2](./assets/dashboard2.png)
 
 ---
 
@@ -46,7 +46,7 @@ The data is stored daily and later aggregated for monthly and comparative analys
 - **Cards with total values** for all four indicators, giving a quick summary of energy performance.
 
 ➡️ Example visualization:  
-![Dashboard 2](367c33b2-69c8-411d-8a4b-9a91f5ad10c6.png)
+![Dashboard3](./assets/dashboard3.png)
 
 ---
 
