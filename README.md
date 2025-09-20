@@ -4,6 +4,8 @@
 This dashboard was created **only as a presentation model** and should not be interpreted as real operational data.
 
 ## 🔎 Description
+**Application acces:** _[DaAn_Production_KPIs_STAB](https://app.powerbi.com/view?r=eyJrIjoiNzBjZDQ3YTQtZjhmMi00M2Q3LThhYzAtZDM4ZmU4MzE0MmRjIiwidCI6IjU5ZTJkYTQzLWI1N2UtNDA4Ny05OGEwLWI1NDlmODczNzE0MiIsImMiOjl9)_
+
 This project was developed in **Power BI** with the purpose of analyzing different **energy consumption indicators** using an Excel dataset.  
 The dashboards provide a clear view of the distribution and evolution of values, allowing users to compare consumption across different phases and time periods.
 
