@@ -9,17 +9,17 @@ The dashboards provide a clear view of the distribution and evolution of values,
 
 ## 🗂️ Dataset
 The dataset comes from an Excel file (`dataset.xlsx`), containing energy consumption values split into:
-- **pPhase** – main phases consumption (L1, L2, L3)  
-- **uInPhase** – input phases consumption (L1, L2, L3)  
-- **iPhase** – current phases consumption (L1, L2, L3)  
+- **pPhase** – main phases consumption (L1, L2, L3)
+- **uInPhase** – input phases consumption (L1, L2, L3)
+- **iPhase** – current phases consumption (L1, L2, L3)
 
 The data is stored daily and later aggregated for monthly and comparative analysis.
 
 ## 📈 Dashboards
 
 ### 🔵 Dashboard 1 – Phase Analysis
-- **Pie charts** – percentage distribution of consumption across phases (L1, L2, L3).  
-- **Timeline charts** – monthly evolution for each phase.  
+- **Pie charts** – percentage distribution of consumption across phases (L1, L2, L3).
+- **Timeline charts** – monthly evolution for each phase.
 
 ➡️ Example visualization:  
 ![Dashboard 1](e7cf3e7f-dd79-4177-8c49-7b17cd0db0fa.png)
